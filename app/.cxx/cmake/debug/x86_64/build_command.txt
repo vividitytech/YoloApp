@@ -1,0 +1,24 @@
+                    Executable : /usr/bin/cmake
+arguments : 
+-H/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app
+-DCMAKE_FIND_ROOT_PATH=/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/prefab/x86_64/prefab
+-DCMAKE_BUILD_TYPE=Debug
+-DCMAKE_TOOLCHAIN_FILE=/home/gangchen/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake
+-DANDROID_ABI=x86_64
+-DANDROID_NDK=/home/gangchen/Android/Sdk/ndk/25.1.8937393
+-DANDROID_PLATFORM=android-21
+-DCMAKE_ANDROID_ARCH_ABI=x86_64
+-DCMAKE_ANDROID_NDK=/home/gangchen/Android/Sdk/ndk/25.1.8937393
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/build/intermediates/cmake/debug/obj/x86_64
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/build/intermediates/cmake/debug/obj/x86_64
+-DCMAKE_MAKE_PROGRAM=/usr/bin/ninja
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_SYSTEM_VERSION=21
+-B/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64
+-GNinja
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 1

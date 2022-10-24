@@ -1,0 +1,391 @@
+[
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/native-lib.cpp",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/native-lib.cpp"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/DarknetAPI.cpp.o -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/DarknetAPI.cpp",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/DarknetAPI.cpp"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/activations.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/activations.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/activations.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/activation_layer.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/activation_layer.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/activation_layer.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/art.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/art.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/art.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/avgpool_layer.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/avgpool_layer.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/avgpool_layer.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/batchnorm_layer.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/batchnorm_layer.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/batchnorm_layer.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/blas.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/blas.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/blas.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/box.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/box.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/box.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/captcha.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/captcha.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/captcha.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/cifar.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/cifar.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/cifar.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/classifier.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/classifier.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/classifier.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/coco.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/coco.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/coco.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/col2im.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/col2im.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/col2im.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/compare.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/compare.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/compare.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/connected_layer.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/connected_layer.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/connected_layer.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/convolutional_layer.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/convolutional_layer.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/convolutional_layer.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/cost_layer.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/cost_layer.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/cost_layer.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/cpu_gemm.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/cpu_gemm.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/cpu_gemm.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/crnn_layer.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/crnn_layer.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/crnn_layer.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/crop_layer.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/crop_layer.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/crop_layer.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/cuda.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/cuda.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/cuda.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/darknet.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/darknet.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/darknet.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/data.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/data.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/data.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/deconvolutional_layer.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/deconvolutional_layer.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/deconvolutional_layer.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/demo.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/demo.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/demo.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/detection_layer.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/detection_layer.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/detection_layer.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/detector.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/detector.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/detector.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/dice.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/dice.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/dice.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/dropout_layer.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/dropout_layer.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/dropout_layer.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/gemm.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/gemm.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/gemm.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/getopt.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/getopt.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/getopt.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/go.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/go.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/go.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/gru_layer.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/gru_layer.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/gru_layer.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/im2col.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/im2col.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/im2col.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/image.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/image.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/image.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/layer.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/layer.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/layer.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/list.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/list.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/list.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/local_layer.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/local_layer.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/local_layer.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/matrix.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/matrix.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/matrix.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/maxpool_layer.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/maxpool_layer.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/maxpool_layer.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/network.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/network.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/network.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/nightmare.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/nightmare.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/nightmare.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/normalization_layer.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/normalization_layer.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/normalization_layer.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/option_list.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/option_list.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/option_list.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/parser.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/parser.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/parser.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/region_layer.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/region_layer.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/region_layer.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/reorg_layer.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/reorg_layer.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/reorg_layer.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/reorg_old_layer.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/reorg_old_layer.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/reorg_old_layer.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/rnn.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/rnn.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/rnn.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/rnn_layer.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/rnn_layer.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/rnn_layer.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/rnn_vid.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/rnn_vid.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/rnn_vid.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/route_layer.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/route_layer.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/route_layer.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/shortcut_layer.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/shortcut_layer.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/shortcut_layer.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/softmax_layer.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/softmax_layer.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/softmax_layer.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/super.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/super.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/super.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/swag.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/swag.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/swag.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/tag.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/tag.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/tag.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/tree.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/tree.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/tree.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/upsample_layer.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/upsample_layer.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/upsample_layer.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/utils.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/utils.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/utils.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/voxel.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/voxel.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/voxel.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/writing.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/writing.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/writing.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/yolo.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/yolo.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/yolo.c"
+},
+
+{
+  "directory": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64",
+  "command": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android21 --sysroot=/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/yolo_layer.c.o   -c /home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/yolo_layer.c",
+  "file": "/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/src/main/cpp/yolo_layer.c"
+}
+]

@@ -1,0 +1,7 @@
+Executable : /usr/bin/ninja
+arguments : 
+-C
+/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/armeabi-v7a
+native-lib
+jvmArgs : 
+

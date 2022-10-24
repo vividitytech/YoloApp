@@ -1,0 +1,3 @@
+/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir
+/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64/CMakeFiles/native-lib.dir
+/home/gangchen/Downloads/project/temp/DarkNet-for-Android/app/.cxx/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
