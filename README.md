@@ -4,6 +4,8 @@ Android version of Darknet Yolo v3 & v2 Neural Networks for object detection htt
 # How to use
 Open this project by AndroidStudio 3.0, build and run. The default model is yolov3-tiny.
 
+Click "detection" button to get the demo results
+
 # How to use other model
 If you want to use yolov3 or others, please download weights and cfg files and put them into \app\src\main\assets
 
